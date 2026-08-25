@@ -1,0 +1,27 @@
+h3 {
+    color: brown;
+}
+
+.container {
+    color: darkolivegreen;
+    border-style: dashed;
+    border-color: greenyellow;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.container-bg {
+    background-color: gold;
+}
+
+.my-font {
+    font-family: 'font-family: "Roboto", sans-serif;';
+}
+
+#container-id {
+    color: orange;
+    margin-top: 67px;
+}
